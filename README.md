@@ -15,7 +15,7 @@ npm install
 npx hardhat compile
 npx hardhat deploy scripts/deploy.js
 ```
-After deploying the contracts, start the server by running the following command:
+After deploying the contracts, you can mint by running the following command:
 ```bash
 npx hardhat deploy scripts/mint-nft.js
 ```
